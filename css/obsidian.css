@@ -1935,7 +1935,7 @@ h1.title {
   animation-duration: 800ms;
 }
 .article p a {
-  color: #ffffff;
+  color: #fff f;
 }
 .article p a:hover {
   color: var(--dark);
@@ -2706,7 +2706,7 @@ h1.title {
   animation-delay: 900ms;
   animation-duration: 3s;
   padding-bottom: 20px;
-  color: #ffffff;
+  color: #fff;
 }
 .content strong {
   font-weight: bold;
